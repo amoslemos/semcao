@@ -20,11 +20,11 @@
 </p>
 
 <p align="center">
-  🎧 Preview do podcast
+  🎧 Preview do podcast: https://youtu.be/YCHOLWmXdRE
 </p>
 
 <div align="center">
-  <audio src="output/sem-cao_trailer.mp3" controls title="Sem Caô - Trailer"></audio>
+  <audio src="output/semcao.mp3" controls title="Sem Caô - Trailer"></audio>
 </div>
 
 ---
